@@ -1,4 +1,4 @@
-# pinghook
+# sendhook
 
 Notify yourself of various services' webhook events via email/sms.
 
